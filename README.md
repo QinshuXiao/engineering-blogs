@@ -114,6 +114,7 @@
 * Data Artisans https://data-artisans.com/blog/
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
+* DataDog https://www.datadoghq.com/blog/engineering/
 * Deezer https://deezer.io/
 * DeferPanic https://deferpanic.com/blog/
 * Deis https://deis.com/blog
