@@ -284,6 +284,7 @@
 * Opensooq http://engineering.opensooq.com/
 
 #### P companies
+* Palantir https://medium.com/@palantir
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Parse http://blog.parse.com/
